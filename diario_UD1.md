@@ -63,3 +63,6 @@ Finalmente, hoy hemos acabado el trabajo de SSH, una vez hecho hemos entendido m
 # Tema 5 - LAMP.
 **Semana 9**
 Hemos empezado el segundo trimestre y ahora nos toca ver lo que es LAMP y como usarlo. El profesor nos ha subido un documento en el que explica la administración de un servidor web y PHP. A lo largo de la semana hemos ido viendo lo que hay que hacer y haciendo los ejemplos para que cómo funciona.
+
+**Semana 10**
+Tenemos un nuevo trabajo que hacer, esta vez en grupos, hemos tenido que formar nosotros los grupos y repartirnos entre nosotros la tarea, cada uno se especializa en un tema y buscamos información, despúes nos juntamos por expertos con los otros grupos y debatimos sobre la información que hemos recaudado y finalmente nos volvemos a juntar el grupo para formar la presentación. 
